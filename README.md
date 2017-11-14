@@ -1,2 +1,5 @@
 # simple-skynet-app
-Simple web-app with JSON / PHP. Test work for SkyNet.
+
+Простое приложение с использованием PHP и JSON. Тестовое задание для SkyNet.
+
+[Техническое задание](Specification.md)
